@@ -1,6 +1,6 @@
-# hive_crud
+# Crud with Flutter and Hive
 
-A new Flutter project.
+A Tasks project made with flutter and usage a Hive local database.
 
 ## Getting Started
 
