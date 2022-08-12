@@ -18,11 +18,15 @@ A Tasks project made with flutter and usage a Hive local database.
 * Hive_flutter
 * Path_provider
 
-Add this packages in your pubspec.yaml and run 
+Add this packages in your Flutter file pubspec.yaml and run 
 
 ```
 flutter pub get
 
 ```
 
+## Base Application
+
+This application is based a Youtube tutorial
+Link: https://youtu.be/Tv3E29870ak
 
