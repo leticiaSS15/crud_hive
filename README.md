@@ -2,7 +2,11 @@
 
 A Tasks project made with flutter and usage a Hive local database.
 
-## Getting Started
+## Application images
+
+
+![Screenshots](./screenshots/home_page.png)
+
 
 This project is a starting point for a Flutter application.
 
