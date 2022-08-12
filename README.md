@@ -1,6 +1,6 @@
 # Crud with Flutter and Hive
 
-A Tasks project made with flutter and usage a Hive local database.
+A Tasks project made with Flutter and usage a Hive local database.
 
 ## Home Page screen
 
@@ -28,5 +28,6 @@ flutter pub get
 ## Base Application
 
 This application is based a Youtube tutorial
+
 Link: https://youtu.be/Tv3E29870ak
 
