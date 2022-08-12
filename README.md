@@ -2,19 +2,27 @@
 
 A Tasks project made with flutter and usage a Hive local database.
 
-## Application images
+## Home Page screen
 
 
 ![Screenshots](./screenshots/home_page.png)
 
 
-This project is a starting point for a Flutter application.
+## Create Task screen
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshots](./screenshots/create_task.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hive
+Hive_flutter
+Path_provider
+
+Add this packages in your pubspec.yaml and run 
+
+```
+flutter pub get
+
+```
+
+
