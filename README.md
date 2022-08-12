@@ -17,6 +17,7 @@ A Tasks project made with Flutter and usage a Hive local database.
 * Hive
 * Hive_flutter
 * Path_provider
+* Date_format
 
 Add this packages in your Flutter file pubspec.yaml and run 
 
