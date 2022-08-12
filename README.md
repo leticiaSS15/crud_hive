@@ -14,9 +14,9 @@ A Tasks project made with flutter and usage a Hive local database.
 
 ## Packages usage
 
-Hive
-Hive_flutter
-Path_provider
+*Hive
+*Hive_flutter
+*Path_provider
 
 Add this packages in your pubspec.yaml and run 
 
